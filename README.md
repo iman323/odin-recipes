@@ -1,1 +1,1 @@
-# odin-recipes
+An html website featuring recipes where i'll be demonstrating some foundatioanal html skills such as:creating directories and html files,filling out the html boilerplate,adding links,images,paragraphs to a webpage and writing ordered and unordered lists using different html tags.
